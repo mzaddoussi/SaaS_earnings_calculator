@@ -1,0 +1,11 @@
+html{background-color: #ffe6ff;}
+.App{
+  text-align: center;
+  background-color: #ffe6ff;
+}
+div.input{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 300px;
+}
